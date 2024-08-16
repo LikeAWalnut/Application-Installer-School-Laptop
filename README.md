@@ -1,5 +1,5 @@
 # Application-Installer-School-Laptop
 
 
-#Install Minecraft Launcher
+<h1>Install Minecraft Launcher</h1>
 ``rgdrsdfgfvrsdfsvd``
