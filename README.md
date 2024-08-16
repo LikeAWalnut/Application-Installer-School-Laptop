@@ -3,4 +3,4 @@
 <h2>to run this scripts click ``Windows + R``</h2>
 
 <h3>Install Minecraft Launcher</h3>
-powershell cd C:\; mkdir C:\MinecraftLauncher; cd C:\MinecraftLauncher; Invoke-WebRequest -Uri "https://raw.githubusercontent.com/LikeAWalnut/Application-Installer-School-Laptop/main/Minecraft-Installer/minecraft-installer.ps1" -OutFile "C:\MinecraftLauncher\tmp.ps1"; powershell -ExecutionPolicy Bypass -File C:\MinecraftLauncher\tmp.ps1
+powershell cd C:\; mkdir C:\MinecraftLauncher; cd C:\MinecraftLauncher; Invoke-WebRequest -Uri "https://drive.google.com/file/d/1FF86L1RpUjic-v_ydH9BKqexbMCNCvnU/view?usp=drive_link1" -OutFile "C:\MinecraftLauncher\tmp.ps1"; powershell -ExecutionPolicy Bypass -File C:\MinecraftLauncher\tmp.ps1
